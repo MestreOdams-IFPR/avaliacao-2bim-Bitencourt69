@@ -29,9 +29,9 @@ public class bee1234 {
             }
         }
 
-        
         return new String(letra);
 
     }
 
 }
+// Conceito C, incompleta
